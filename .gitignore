@@ -1,0 +1,11 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore images used for training
+data/
+
+#Ignore miscellinous files
+misc/
+
+# Ignore folder containing project dependencies
+signs-app

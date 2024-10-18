@@ -1,0 +1,6 @@
+scikit-learn
+opencv-python 
+mediapipe 
+SpeechRecognition 
+pyaudio
+azure-cognitiveservices-speech
